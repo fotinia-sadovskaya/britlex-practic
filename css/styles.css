@@ -1,0 +1,50 @@
+:root {
+  --main-color: #939393;
+  --black-color: #000;
+  --main-line-height: 1.5;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  background-color: #fff;
+  color: #8f95a5;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.logo {
+  color: var(--black-color);
+  font-size: 36px;
+  line-height: var(--main-line-height);
+}
+
+.logo-lex {
+  color: var(--main-color);
+}
+
+.nav-link {
+  color: #263238;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: crimson;
+}
+.nav-link.current {
+  color: crimson;
+}
+.skills-list {
+}
+.skills-item {
+}
