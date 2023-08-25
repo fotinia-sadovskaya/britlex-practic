@@ -1,6 +1,6 @@
 # britlex-practic
 
-макет
+макет з практики (НЕ ДЗ)
 https://www.figma.com/file/xj8hG5n4ayl3XGo8ji35Nb/Britlex-Language-School-(Copy)?node-id=580%3A996&mode=dev
 
 Для копіювання усіх класів у блоку
